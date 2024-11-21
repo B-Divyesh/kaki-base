@@ -56,7 +56,7 @@ flake8>=3.9.0
 
 # Specific Geometry and Path Planning
 pycollada>=0.7.2
-open3d>=0.14.0
+
 
 # Optional but recommended for complex simulations
 ortools>=9.4.0
