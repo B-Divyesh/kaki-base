@@ -1,7 +1,62 @@
-streamlit>=1.0.0
-numpy>=1.19.0
-trimesh>=3.9.0
-plotly>=4.14.0
-ezdxf>=0.16.0
-networkx>=2.5
+# Core Python Libraries
+numpy>=1.21.0
 scipy>=1.7.0
+
+# 3D Geometry and Mesh Processing
+trimesh>=3.10.0
+shapely>=2.0.0
+rtree>=0.9.7
+
+# Scientific Computing
+scikit-learn>=0.24.0
+scikit-image>=0.18.0
+
+# Visualization
+plotly>=5.5.0
+matplotlib>=3.4.0
+
+# CAD and 3D File Handling
+ezdxf>=0.17.0
+pywavefront>=1.3.0
+
+# Machine Learning (optional, but useful for advanced path finding)
+tensorflow>=2.6.0
+torch>=1.9.0
+
+# Streamlit and Web Interaction
+streamlit>=1.10.0
+
+# Computational Geometry
+networkx>=2.6.0
+opencv-python-headless>=4.5.0
+
+# Performance and Optimization
+numba>=0.54.0
+cython>=0.29.0
+
+# Spatial Calculations
+pyproj>=3.2.0
+geopandas>=0.10.0
+
+# Simulation and Modeling
+simpy>=4.0.0
+
+# Data Handling
+pandas>=1.3.0
+
+# Additional Utilities
+tqdm>=4.62.0
+python-dotenv>=0.19.0
+
+# Testing and Development
+pytest>=6.2.0
+mypy>=0.910
+black>=21.6b0
+flake8>=3.9.0
+
+# Specific Geometry and Path Planning
+pycollada>=0.7.2
+open3d>=0.14.0
+
+# Optional but recommended for complex simulations
+ortools>=9.4.0
