@@ -1,0 +1,7 @@
+streamlit>=1.0.0
+numpy>=1.19.0
+trimesh>=3.9.0
+plotly>=4.14.0
+ezdxf>=0.16.0
+networkx>=2.5
+scipy>=1.7.0
