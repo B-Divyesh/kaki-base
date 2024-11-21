@@ -8,7 +8,7 @@ shapely>=2.0.0
 rtree>=0.9.7
 
 # Scientific Computing
-scikit-learn>=0.24.0
+scikit-learn>=1.5.0
 scikit-image>=0.18.0
 
 # Visualization
